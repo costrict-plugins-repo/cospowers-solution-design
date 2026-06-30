@@ -1,0 +1,16 @@
+{
+    "name": "ai-workers-design",
+    "owner": {
+        "name": "Sangfor"
+    },
+    "plugins": [
+        {
+            "name": "cospowers-solution-design",
+            "version": "0.0.1",
+            "source": "./",
+            "author": {
+                "name": "Sangfor"
+            }
+        }
+    ]
+}
